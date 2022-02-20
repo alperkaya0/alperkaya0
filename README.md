@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 I am currently on a journey to land on my first full-stack web development job whether it is freelancing or remote. My interests are developing web apps and hands-on learning about cybersecurity. Tryhackme is one of my favorite place to learn about cybersecurity, I am at top 1% even though I started with zero knowledge and experience so it does what it offers. I wish it wasn't this expensive, I am not able to continue with this pricing even tho I got student discount.
 
-- I'm currently working on ...
+- I'm currently working on ... <br>
 Honing my web development skills.
-- How to reach me: ...
+- How to reach me: ... <br>
 You can use my email, find me at discord, message through linkedin... You have lots of options.
 
 ## Technologies I am able to use
