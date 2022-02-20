@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/pytorch4.png" align="left" height="100px" alt="pytorch" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/numpy.png" align="left" height="100px" alt="numpy" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/jupyter.png" align="left" height="100px" alt="jupyter" /> <br> <br>
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/jupyter.png" align="left" height="100px" alt="jupyter" /> <br> <br> <br>
 
 ## My Interests
 
