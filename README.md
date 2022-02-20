@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" height="50px" alt="python" /> <br> <br>
 
-### Technologies I have knowledge of / I used a few times
+## Technologies I have knowledge of / I used a few times
 
 <img style="margin-top: 15px;" src="https://github.com/alperkaya0/alperkaya0/blob/main/pytorch.png" align="left" height="50px" alt="python" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/numpy.png" align="left" height="80px" alt="python" />
