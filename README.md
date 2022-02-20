@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 
 ### Frameworks and Tools
 
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/mongo.png" align="left" height="50px" alt="mongodb" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/expressjs.png" align="left" height="50px" alt="expressjs" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/reactjs.png" align="left" height="50px" alt="reactjs" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/nodejs.png" align="left" height="50px" alt="nodejs" />
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/MERN-logo.png" align="left" height="50px" alt="mern" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/mongoose.png" align="left" height="50px" alt="mongoose" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" height="50px" alt="git" />
