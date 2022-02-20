@@ -1,4 +1,4 @@
-<img src="svgtest.svg" width="400" height="400" alt="css-in-readme">
+<img src="svgtest.svg" width="400" alt="css-in-readme">
 
 <!--
 **alperkaya0/alperkaya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
