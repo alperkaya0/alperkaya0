@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Technologies I am able to use
 ### Related to Machine Learning
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" height="50px" alt="python" />
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" height="50px" alt="python" /> <br>
 ### Fundamentals
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/html.png" align="left" height="50px" alt="html" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/css.png" align="left" height="50px" alt="css" />
