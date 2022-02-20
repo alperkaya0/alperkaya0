@@ -38,3 +38,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/numpy.png" align="left" height="100px" alt="numpy" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/jupyter.png" align="left" height="100px" alt="jupyter" />
 
+## My Interests
+
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/thm.png" align="left" height="100px" alt="tryhackme" />
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/linux.png" align="left" height="100px" alt="linux" />
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/Kali%20Linux.png" align="left" height="100px" alt="kali_linux" />
