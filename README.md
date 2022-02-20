@@ -23,7 +23,7 @@ I am currently finishing a full stack web development bootcamp, the one Angela Y
 Honing my web development skills.
 - How to reach me: ... <br>
 You can use my email, find me at discord, message through linkedin... You have lots of options.
-- The phrase I really like ... <br>
+- A phrase I really like ... <br>
 Nobody knows everything, just google it.
 
 ## Technologies I am able to use
