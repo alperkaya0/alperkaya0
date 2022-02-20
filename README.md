@@ -30,9 +30,7 @@ Nobody knows everything, just google it.
 
 ### Fundamentals
 
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/html.png" align="left" height="75px" alt="html" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/css.png" align="left" height="75px" alt="css" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/js.png" align="left" height="75px" alt="javascript" /> <br> <br> <br>
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/htmlcssjs.png" align="left" height="75px" alt="html-css-js-set" /> <br> <br> <br>
 
 ### Frameworks and Tools
 
