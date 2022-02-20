@@ -1,4 +1,4 @@
-<img src="svgtest.svg" alt="ğ">
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/svgtest.svg" alt="ğ">
 
 <!--
 **alperkaya0/alperkaya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
