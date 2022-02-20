@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Technologies I am able to use
-[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" width="50px" />][python]
-[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/html.png" align="left" width="50px" />][html]
-[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/css.png" align="left" width="50px" />][css]
-[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/js.png" align="left" width="50px" />][javascript]
-[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/mongodb.png" align="left" width="50px" />][mongodb]
-[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/expressjs.png" align="left" width="50px" />][expressjs]
-[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/reactjs.png" align="left" width="50px" />][reactjs]
-[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/nodejs.png" align="left" width="50px" />][nodejs]
-[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" width="50px" />][git]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" height="50px" />][python]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/html.png" align="left" height="50px" />][html]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/css.png" align="left" height="50px" />][css]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/js.png" align="left" height="50px" />][javascript]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/mongodb.png" align="left" height="50px" />][mongodb]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/expressjs.png" align="left" height="50px" />][expressjs]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/reactjs.png" align="left" height="50px" />][reactjs]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/nodejs.png" align="left" height="50px" />][nodejs]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" height="50px" />][git]
