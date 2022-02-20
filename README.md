@@ -1,4 +1,4 @@
-# Hello, I am Alper
+<img src="svgtest.svg" width="400" height="400" alt="css-in-readme">
 
 <!--
 **alperkaya0/alperkaya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 <img style="margin-top: 15px;" src="https://github.com/alperkaya0/alperkaya0/blob/main/pytorch.png" align="left" height="50px" alt="python" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/numpy.png" align="left" height="80px" alt="python" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/jupyter.png" align="left" height="100px" alt="python" />
-<img src="svgtest.svg" width="400" height="400" alt="css-in-readme">
+
