@@ -30,13 +30,13 @@ Nobody knows everything, just google it.
 
 ### Fundamentals
 
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/htmlcssjs.png" align="left" height="75px" alt="html-css-js-set" /> <br> <br> <br>
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/htmlcssjs.png" align="left" height="80px" alt="html-css-js-set" /> <br> <br> <br>
 
 ### Frameworks and Tools
 
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/MERN-logo.png" align="left" height="100px" alt="mern" /> <br> <br>
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/mongoose.png" align="left" height="50px" alt="mongoose" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" height="50px" alt="git" /> <br> <br> <br>
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/MERN-logo.png" align="left" height="120px" alt="mern" /> <br> <br>
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/mongoose.png" align="left" height="60px" alt="mongoose" />
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" height="60px" alt="git" /> <br> <br> <br>
 
 ### Related to Machine Learning
 
