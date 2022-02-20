@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 <!--
 **alperkaya0/alperkaya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Technologies I am able to use
+
+![python](https://github.com/alperkaya0/alperkaya0/blob/main/python.png)
+![html](https://github.com/alperkaya0/alperkaya0/blob/main/html.png)
+![css](https://github.com/alperkaya0/alperkaya0/blob/main/css.png)
+![javascrip](https://github.com/alperkaya0/alperkaya0/blob/main/js.png)
+![mongodb](https://github.com/alperkaya0/alperkaya0/blob/main/mongodb.png)
+![expressjs](https://github.com/alperkaya0/alperkaya0/blob/main/expressjs.png)
+![reactjs](https://github.com/alperkaya0/alperkaya0/blob/main/reactjs.png)
+![nodejs](https://github.com/alperkaya0/alperkaya0/blob/main/nodejs.png)
+![git](https://github.com/alperkaya0/alperkaya0/blob/main/git.png)
