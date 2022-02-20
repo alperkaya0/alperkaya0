@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 ### Related to Machine Learning
 
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" height="50px" alt="python" /> <br> <br>
+
+### Technologies I have knowledge of / I used a few times
+
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/pytorch.png" align="left" height="50px" alt="python" />
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/numpy.png" align="left" height="50px" alt="python" />
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/jupyter.png" align="left" height="50px" alt="python" />
