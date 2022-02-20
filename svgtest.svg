@@ -5,6 +5,7 @@
             h1 {
                 color: red;
                 animation: mymove 2s infinite;
+                position : absolute;
             }
 
             @keyframes mymove {
