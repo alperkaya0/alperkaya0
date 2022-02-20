@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Related to Machine Learning
 
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" height="100px" alt="python" /> <br> <br> <br>
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" height="100px" alt="python" /> <br> <br> <br> <br>
 
 ## Technologies I have knowledge of / I used a few times
 
