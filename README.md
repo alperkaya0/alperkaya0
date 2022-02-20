@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/html.png" align="left" height="100px" alt="html" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/css.png" align="left" height="100px" alt="css" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/js.png" align="left" height="100px" alt="javascript" /> <br> <br> 
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/js.png" align="left" height="100px" alt="javascript" /> <br> <br> <br> <br>
 
 ### Frameworks and Tools
 
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/MERN-logo.png" align="left" height="100px" alt="mern" /> <br> <br>
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/MERN-logo.png" align="left" height="100px" alt="mern" /> <br> <br> <br>
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/mongoose.png" align="left" height="100px" alt="mongoose" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" height="100px" alt="git" /> <br> <br> <br>
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" height="100px" alt="git" /> <br> <br> <br> <br>
 
 ### Related to Machine Learning
 
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" height="100px" alt="python" /> <br> <br>
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" height="100px" alt="python" /> <br> <br> <br>
 
 ## Technologies I have knowledge of / I used a few times
 
