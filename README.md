@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Technologies I have knowledge of / I used a few times
 <br>
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/pytorch2.png" align="left" height="100px" alt="pytorch" />
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/pytorch3.png" align="left" height="100px" alt="pytorch" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/numpy.png" align="left" height="100px" alt="numpy" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/jupyter.png" align="left" height="100px" alt="jupyter" />
 
