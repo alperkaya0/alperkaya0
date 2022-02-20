@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Technologies I am able to use
-
-![python](https://github.com/alperkaya0/alperkaya0/blob/main/python.png)
-![html](https://github.com/alperkaya0/alperkaya0/blob/main/html.png)
-![css](https://github.com/alperkaya0/alperkaya0/blob/main/css.png)
-![javascrip](https://github.com/alperkaya0/alperkaya0/blob/main/js.png)
-![mongodb](https://github.com/alperkaya0/alperkaya0/blob/main/mongodb.png)
-![expressjs](https://github.com/alperkaya0/alperkaya0/blob/main/expressjs.png)
-![reactjs](https://github.com/alperkaya0/alperkaya0/blob/main/reactjs.png)
-![nodejs](https://github.com/alperkaya0/alperkaya0/blob/main/nodejs.png)
-![git](https://github.com/alperkaya0/alperkaya0/blob/main/git.png)
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" width="26px" />][python]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/html.png" align="left" width="26px" />][html]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/css.png" align="left" width="26px" />][css]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/js.png" align="left" width="26px" />][javascript]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/mongodb.png" align="left" width="26px" />][mongodb]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/expressjs.png" align="left" width="26px" />][expressjs]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/reactjs.png" align="left" width="26px" />][reactjs]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/nodejs.png" align="left" width="26px" />][nodejs]
+[<img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" width="26px" />][git]
