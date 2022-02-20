@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## About Myself
 
 I am currently on a journey to land on my first full-stack web development job whether it is freelancing or remote. My interests are developing web apps and hands-on learning about cybersecurity. Tryhackme is one of my favorite place to learn about cybersecurity, I am at top 1% even though I started with zero knowledge and experience so it does what it offers. I wish it wasn't this expensive, I am not able to continue with this pricing even though I got student discount.
+I am currently finishing a full stack web development bootcamp, the one Angela Yu teaches. After finishing that I am planning to take an advanced backend with nodejs udemy course. After that I am planning to do lots of personal projects hoping that these will be enough to freelance.
 
 - I'm currently working on ... <br>
 Honing my web development skills.
