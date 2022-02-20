@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/MERN-logo.png" align="left" height="100px" alt="mern" /> <br> <br>
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/mongoose.png" align="left" height="50px" alt="mongoose" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" height="50px" alt="git" /> <br> <br>
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" height="50px" alt="git" /> <br> <br> <br>
 
 ### Related to Machine Learning
 
