@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Fundamentals
 
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/html.png" align="left" height="50px" alt="html" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/css.png" align="left" height="50px" alt="css" />
-<img src="https://github.com/alperkaya0/alperkaya0/blob/main/js.png" align="left" height="50px" alt="javascript" /> <br> <br> 
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/html.png" align="left" height="75px" alt="html" />
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/css.png" align="left" height="75px" alt="css" />
+<img src="https://github.com/alperkaya0/alperkaya0/blob/main/js.png" align="left" height="75px" alt="javascript" /> <br> <br> <br>
 
 ### Frameworks and Tools
 
