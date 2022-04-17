@@ -36,7 +36,7 @@ Nobody knows everything, just google it.
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/mongoose.png" align="left" height="60px" alt="mongoose" />
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/git.png" align="left" height="60px" alt="git" /> <br> <br> <br> <br>
 
-### Related to Machine Learning
+### Data
 
 <img src="https://github.com/alperkaya0/alperkaya0/blob/main/python.png" align="left" height="75px" alt="python" /> <br> <br> <br> <br>
 
