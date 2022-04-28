@@ -20,7 +20,7 @@ My interests are developing web apps and hands-on learning about cybersecurity. 
 - I'm currently working on ... <br>
 Honing my web development skills.
 - How to reach me: ... <br>
-You can use my email, find me at discord, message through linkedin... You have lots of options.
+You can use my email, message through linkedin... You have lots of options.
 - A phrase I really like ... <br>
 Nobody knows everything, just google it.
 
