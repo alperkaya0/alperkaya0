@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 -->
 ## About Myself
 
-My interests are developing web apps and hands-on learning about cybersecurity. Tryhackme is one of my favorite place to learn about cybersecurity, I am at top 1%. <br> <br>
-- I'm currently working on ... <br>
-Honing my web development skills.
-- How to reach me: ... <br>
-You can use my email, message through linkedin... You have lots of options.
-- A phrase I really like ... <br>
-Nobody knows everything, just google it.
-
 ## Technologies I am able to use
 
 ### Fundamentals
