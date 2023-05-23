@@ -8,14 +8,14 @@ Hardworking and passionate software engineer with a focus on problem-solving and
 <br><br>
 **Skills**
 - Java: Used mainly for solving DSA problems and Spring & Spring Boot API projects.
-- Spring, Spring Boot: Proficient in developing applications using the Spring framework.
+- Spring, Spring Boot: Skilled in developing applications using the Spring framework.
 - Node.js: Experienced in backend development and web scraping.
 - Python: Skilled in web scraping and data visualization using Python.
-- Jupyter Notebook: Proficient in data science and data visualization.
+- Jupyter Notebook: Skilled in data science and data visualization.
 - C#: Familiar with C# programming language.
-- HTML & CSS: Proficient in front-end development using HTML and CSS.
+- HTML & CSS: Skilled in front-end development using HTML and CSS.
 - PHP: Hands-on experince on PHP programming.
-- Git: Proficient in version control with Git. 
+- Git: Skilled in version control with Git. 
 
 **Certificates**
 - HackerRank Problem Solving Certificate
