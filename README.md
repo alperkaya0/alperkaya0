@@ -11,7 +11,7 @@ Hardworking and passionate software engineer with a focus on problem-solving and
 - Spring, Spring Boot: Skilled in developing applications using the Spring framework.
 - Node.js: Experienced in backend development and web scraping.
 - Python: Skilled in web scraping and data visualization using Python.
-- Jupyter Notebook: Skilled in data science and data visualization.
+- Jupyter Notebook: Familiar with Jupyter Notebook.
 - C#: Familiar with C# programming language.
 - HTML & CSS: Skilled in front-end development using HTML and CSS.
 - PHP: Hands-on experince on PHP programming.
