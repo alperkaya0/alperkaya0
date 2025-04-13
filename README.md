@@ -16,11 +16,7 @@ Hardworking and passionate software engineer with a focus on problem-solving and
 - JavaScript Algorithms and Data Structures Certificate
 - CompTIA Pentest+ Learning Path Certificate
 - HackerRank SQL Certificate
-- HackerRank Python Certificate
-- Jr Penetration Tester Learning Path Certificate
-- Web Fundamentals Learning Path Certificate
-- Complete Beginner Learning Path Certificate
-- Pre-Security Learning Path Certificate <br><br>
+- HackerRank Python Certificate <br><br>
 
 Feel free to reach out to me for any collaboration, project, or job opportunities.
 
